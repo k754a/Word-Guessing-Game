@@ -31,6 +31,7 @@ main_guess.exe
 Note: The .exe might trigger a warning from Windows Defender - it’s okay, just choose to run it!
 
 ### How to Play
+
 The game will pick a secret word.
 
 You guess a letter or the whole word.

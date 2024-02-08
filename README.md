@@ -24,11 +24,6 @@ Open a terminal or command prompt, navigate to the folder where you extracted th
 
 python main.py
 
-### or, if you downloaded the .exe file:
-
-main_guess.exe
-
-Note: The .exe might trigger a warning from Windows Defender - it’s okay, just choose to run it!
 
 ### How to Play
 

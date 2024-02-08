@@ -22,7 +22,6 @@ Download the game file by clicking on the python script then "download raw".
 
 Open a terminal or command prompt, navigate to the folder where you extracted the files, and type:
 
-```python
 python main.py
 
 or, if you downloaded the .exe file:

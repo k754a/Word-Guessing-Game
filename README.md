@@ -1,8 +1,3 @@
-Hello, I’m Copilot, an AI companion. I can help you format your text in a README.md file. 😊
-
-A README.md file is a markdown file that provides information about a project or a repository. Markdown is a simple way to add formatting elements to plain text. You can use symbols like #, *, and - to create headings, lists, and other elements. You can also use code blocks to display formatted content such as code, math, or poetry.
-
-Here is how your text would look like in a README.md file:
 
 # Word Guessing Game
 

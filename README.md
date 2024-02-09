@@ -41,4 +41,3 @@ Remember: If you have questions or run into any issues, ask someone for help. Ha
 Feel free to make any adjustments or let me know if there’s anything specific you’d like to add or change!
 
 
-I hope this helps you format your text in a README.md file. If you have any other questions, feel free to ask me. 😊
